@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.8,
-          "width": 2.0
+          "height": 1.75,
+          "width": 1.125
         },
         "silk_line_width": 0.153,
         "silk_text_italic": false,
@@ -594,22 +594,6 @@
       "sensor12"
     ],
     [
-      "08c49fb1-cd72-4967-bc06-2c9b671dd441",
-      "sensor13"
-    ],
-    [
-      "472c80d1-bd81-4fc5-a064-eeb435dad929",
-      "sensor14"
-    ],
-    [
-      "c762bb02-d41b-4f0a-a3af-0525093e46cc",
-      "sensor15"
-    ],
-    [
-      "bad8b8e3-1329-419c-afa0-c1ef9dd37133",
-      "sensor16"
-    ],
-    [
       "72ba8c04-ef4b-4022-bf52-44e818183c4a",
       "sensor17"
     ],
@@ -730,14 +714,6 @@
       "sensor46"
     ],
     [
-      "e53da7e7-c57b-4395-b9b6-32b94804de0e",
-      "sensor47"
-    ],
-    [
-      "32b9e55d-7630-4828-8197-ead29a62c972",
-      "sensor48"
-    ],
-    [
       "a2025fa4-4c7d-43af-916c-9d3083c5dc61",
       "sensor49"
     ],
@@ -842,10 +818,6 @@
       "sensor74"
     ],
     [
-      "c64d234d-7ff2-4647-b86d-788c45444225",
-      "sensor75"
-    ],
-    [
       "17b42967-5307-42ca-b659-e2f042bf04b4",
       "sensor76"
     ],
@@ -860,10 +832,6 @@
     [
       "08872d03-71dc-437b-bac1-3494650d24dc",
       "sensor79"
-    ],
-    [
-      "30c4bb8a-3766-4aca-9e2b-d2b74f30dfa8",
-      "sensor80"
     ],
     [
       "80c2ea29-ccf5-4cca-95c6-ea84e81c8187",
